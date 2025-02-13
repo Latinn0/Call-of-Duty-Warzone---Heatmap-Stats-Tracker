@@ -1,0 +1,5 @@
+{
+    "cloud_data_url": "https://your-cloud-storage-link.com/warzone_data.json",
+    "default_map": "Verdansk",
+    "heatmap_threshold": 100
+}
